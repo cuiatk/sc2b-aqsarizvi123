@@ -14,6 +14,7 @@ import java.util.regex.*;
 import java.util.regex.Pattern;
 
 /**
+ * 1 commmit
  * Extract consists of methods that extract information from a list of tweets.
  * 
  * DO NOT change the method signatures and specifications of these methods, but
