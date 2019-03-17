@@ -16,7 +16,7 @@ import org.junit.Test;
 public class ExtractTest {
 
     /*
-     * 2 commit
+     * 2 commit changes
      * TODO: your testing strategies for these methods should go here.
      * See the ic03-testing exercise for examples of what a testing strategy comment looks like.
      * Make sure you have partitions.
